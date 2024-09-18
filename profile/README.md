@@ -32,7 +32,7 @@
 
 ### Our Team
 
-|                 박상훈                 |                 이범희                 |                조인희                |
+|                 박상훈                 |                 이범수                 |                조인희                |
 | :------------------------------------: | :------------------------------------: | :----------------------------------: |
 | [@shoon95](https://github.com/shoon95) | [@beomsu1](https://github.com/beomsu1) | [@InHees](https://github.com/InHeeS) |
 |                   BE                   |                   BE                   |                  BE                  |
