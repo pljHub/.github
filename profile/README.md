@@ -43,7 +43,8 @@
 
 ## 아키텍처 
 
-![image-20240918163414200](assets/README/image-20240918163414200.png)
+![image](https://github.com/user-attachments/assets/b9644341-8ff8-47d9-8aec-2d5110184175)
+
 
 ## Application 구성
 
