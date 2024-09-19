@@ -92,7 +92,7 @@
 
 ### [검색 기능](https://horse-giver-fbd.notion.site/Slack-fff2ebde9ffc810c8dd2f72fa8aaa571?pvs=4)
 
-> * 회원 가입 후 slack 메세지를 활용하여 인증 후 계정 활성화가 가능합니다.
+> * QueryDSL 과 Pagenation을 활용하여 동적 쿼리작성이 가능하도록 구현하였습니다.
 
 ### [FeignClient를 활용한 MSA 환경에서 트랜잭션 전파와 장애 대응](https://horse-giver-fbd.notion.site/FeignClient-MSA-fff2ebde9ffc8184858df45208b4b834?pvs=4)
 
@@ -113,6 +113,28 @@
 ### Redis
 
 > slack을  인증 시 인증 코드를 Redis에 저장하여 TimeToLive를 설정했으며, DB에 접근하지 않아도 되도록 했습니다.
+
+### QueryDSL
+
+> 정렬, 검색어 등에 따른 동적 쿼리 작성을 위하여 QueryDSL 도입하여 활용했습니다.
+
+### FeignClient
+
+> MSA 환경에서 FeignClient를 사용하는 이유는 서비스 간 통신을 간편하게 관리하고 REST API 호출을 추상화하여 개발 생산성을 높이기 위해 활용했습니다. 
+
+
+### Zipkin
+
+> 분산 트레이싱을 통해 MSA 환경에서 각 서비스의 요청 흐름을 추적하고 성능 문제를 진단하기 위해 사용됩니다.
+
+
+### Grafana 
+
+> MSA 환경에서 수집된 메트릭 데이터를 시각화하여 시스템 모니터링과 성능 분석을 직관적으로 할 수 있게 사용됩니다.
+
+### Sheduler를 통한 보고서 작성
+
+> 배송 담당자는 매일 아침 6이세 당일 날씨와 배송에 대한 요약정보를 슬랙으로 전달받습니다. 
 
 
 <br> <br/>
