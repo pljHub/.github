@@ -151,7 +151,8 @@
 
 <br> <br/>
 ## ✏ ERD
-![image](https://file.notion.so/f/f/c7724213-30b1-4b2e-a8db-0c2df548c441/78de94ea-165a-4103-b0bb-0c4211447831/hub.png?table=block&id=1052ebde-9ffc-8066-9219-f9da1a440769&spaceId=c7724213-30b1-4b2e-a8db-0c2df548c441&expirationTimestamp=1726804800000&signature=TlzJ2RjrF8MV6_lqYyeCSFtMqj0ubsnKU4f6PwS8qJQ&downloadName=hub.png)
+![image](https://github.com/user-attachments/assets/69e43e2d-bad1-4f99-bc64-414c80483cc7)
+
 
 
 
