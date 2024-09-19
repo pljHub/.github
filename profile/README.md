@@ -86,10 +86,26 @@
 <br> <br/>
 ## 🏅 프로젝트 기능
 
-### Slack 인증을 통한 회원 가입
+### [Slack 인증을 통한 회원 가입](https://horse-giver-fbd.notion.site/Slack-fff2ebde9ffc810c8dd2f72fa8aaa571?pvs=4)
 
 > * 회원 가입 후 slack 메세지를 활용하여 인증 후 계정 활성화가 가능합니다.
 
+### [검색 기능](https://horse-giver-fbd.notion.site/Slack-fff2ebde9ffc810c8dd2f72fa8aaa571?pvs=4)
+
+> * 회원 가입 후 slack 메세지를 활용하여 인증 후 계정 활성화가 가능합니다.
+
+### [FeignClient를 활용한 MSA 환경에서 트랜잭션 전파와 장애 대응](https://horse-giver-fbd.notion.site/FeignClient-MSA-fff2ebde9ffc8184858df45208b4b834?pvs=4)
+
+> * FeignClient를 활용하여 MSA 환경에서의 통신을 구현하였습니다. 
+
+
+### [CustomArgumentResolver를 활용한 공통 기능 개발](https://horse-giver-fbd.notion.site/CustomArgumentResolver-3d279a7928fd48e9990f021278b2a31a?pvs=4)
+
+> * PageableArgumentResolver를 커스텀하며 파라미터의 중복을 줄이며 Login 어노테이션을 만들어 헤더로부터 전달받은 값들을 편리하게 쓰도록 변형하였습니다. 
+
+### [GoogleMaps API를 이용한 위치 정보](https://horse-giver-fbd.notion.site/GoogleMaps-API-fff2ebde9ffc81929c48c3d22e07e65a?pvs=4)
+
+> * Google Maps API를 활용하여 각 주소의 위치 좌표를 추출하며, 실시간 도로 정보를 기반으로 이동 시간을 반환합니다.
 
 <br> <br/>
 ## 📃 적용 기술
