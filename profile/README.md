@@ -102,7 +102,11 @@
 <br> <br/>
 ## 트러블 슈팅
 
-* 확장성을 고려한 권한 별 유저 회원 가입 문제
+* ### [확장성을 고려한 권한 별 유저 회원 가입 문제](https://horse-giver-fbd.notion.site/fff2ebde9ffc812ab774f726df939dfc)
+
+* ### [= 연산자 사용으로 재귀 쿼리 결과가 제한됨](https://horse-giver-fbd.notion.site/fff2ebde9ffc81b3b065c6187ebb4acf)
+
+* ### [주문 생성 중 상품의 재고 부족 문제로 인한 로직 롤백 처리](https://horse-giver-fbd.notion.site/fff2ebde9ffc813fa5e6e71e8980c6d8)
 
 
 <br> <br/>
