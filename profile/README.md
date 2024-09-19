@@ -112,7 +112,9 @@
 
 ### Redis
 
-> slack을  인증 시 인증 코드를 Redis에 저장하여 TimeToLive를 설정했으며, DB에 접근하지 않아도 되도록 했습니다.
+> slack 인증 시 인증 코드를 Redis에 저장하여 TimeToLive를 설정했으며, DB에 접근하지 않아도 되도록 했습니다.
+> 
+> 허브 경로에 대한 생성(Create), 조회(Read), 수정(Update), 삭제(Delete) 작업이 발생할 때마다 Redis에 해당 경로 데이터를 캐싱하여 성능을 최적화합니다.
 
 ### QueryDSL
 
